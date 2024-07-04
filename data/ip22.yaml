@@ -1,0 +1,11 @@
+train: ip16/images/train/
+val: ip16/images/val/
+test: ip16/images/test/
+
+# number of classes
+nc: 16
+
+# class names
+names: [ 'rice gall midge', 'white backed plant hopper', 'rice water weevil', 'rice leafhopper', 'wheat phloeothrips', 'grub', 'mole cricket', 'wireworm',
+        'black cutworm', 'cabbage army worm', 'red spider', 'aphids', 'Potosiabre vitarsis', 'Xylotrechus',
+        'Locustoidea', 'Unaspis yanonensis' ]
